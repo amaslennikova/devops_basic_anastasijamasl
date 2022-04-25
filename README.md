@@ -1,2 +1,2 @@
 # DevOps repozitorijs
-Anastasijas Masļeņņikovas DevOps repozitorijs pamati iesācējiem
+Anastasijas Maslennikovas DevOps repozitorijs pamati iesācējiem
