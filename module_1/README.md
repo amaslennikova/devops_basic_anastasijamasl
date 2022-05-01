@@ -37,4 +37,3 @@ valoda, kuru pārvaldāt ar attiecīgo stilu.
 ! Tiem kuri nav pieraduši strādāt ar OS termināliem uzstādīt papildus:
 GitHub Desktop - https://desktop.github.com
    
-   /README.md>
