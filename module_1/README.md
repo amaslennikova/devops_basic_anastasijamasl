@@ -12,7 +12,7 @@ Jānodod: bilde no jūsu darba stacijas Windows (Linux vai Mac) ar to ka git ir 
 _Palaižot komandu git (Windows : cmd vai Windows PowerShell vai Windows Terminal; 
 Linux: bash vai zsh shell; Mac Os: Terminal app)_
 
-Rezultāts: img src="/Git_installed.png" alt="Git installed" style="height: 100px; width:100px;"/>
+Rezultāts: img src="/module_1/Git_installed.png" alt="Git installed" style="height: 100px; width:100px;"/>
 
 **3. Jāuzstada vienu no koda rediģēšanas programmas no saraksta zemāk:**
 - [Visual studio code](https://code.visualstudio.com/)
